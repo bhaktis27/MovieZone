@@ -9,5 +9,5 @@ Dynamic movie listings with details
 Responsive UI for all devices
 
 🛠️ Tech Stack
-React.js
-CSS/Styled Components
+  React.js
+  CSS/Styled Components
