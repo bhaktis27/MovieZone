@@ -1,8 +1,13 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+MovieZone is a React.js movie discovery app that allows users to filter movies by genres like Horror, Sci-Fi, Action, and more. It provides a seamless browsing experience with real-time data fetching.
 
-Currently, two official plugins are available:
+🚀 Features
+Filter movies by genre
+Search for specific movies
+Dynamic movie listings with details
+Responsive UI for all devices
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛠️ Tech Stack
+React.js
+CSS/Styled Components
