@@ -12,4 +12,5 @@ MovieZone is a React.js movie discovery app that allows users to filter movies b
 🛠️ Tech Stack
 
   React.js
+  
   CSS/Styled Components
